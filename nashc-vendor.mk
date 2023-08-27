@@ -1518,7 +1518,6 @@ PRODUCT_COPY_FILES += \
     vendor/realme/nashc/proprietary/vendor/lib/s5k4h7_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib/s5k4h7_mipi_raw_tuning.so \
     vendor/realme/nashc/proprietary/vendor/lib/s5khm2sp_mipi_raw_IdxMgr.so:$(TARGET_COPY_OUT_VENDOR)/lib/s5khm2sp_mipi_raw_IdxMgr.so \
     vendor/realme/nashc/proprietary/vendor/lib/s5khm2sp_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib/s5khm2sp_mipi_raw_tuning.so \
-    vendor/realme/nashc/proprietary/vendor/lib/soundfx/libaudiopreprocessing_mtk.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libaudiopreprocessing_mtk.so \
     vendor/realme/nashc/proprietary/vendor/lib/vendor.mediatek.hardware.apmonitor@2.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.mediatek.hardware.apmonitor@2.0.so \
     vendor/realme/nashc/proprietary/vendor/lib/vendor.mediatek.hardware.apuware.utils@2.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.mediatek.hardware.apuware.utils@2.0.so \
     vendor/realme/nashc/proprietary/vendor/lib/vendor.mediatek.hardware.audio@6.1.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.mediatek.hardware.audio@6.1.so \
@@ -2148,7 +2147,6 @@ PRODUCT_COPY_FILES += \
     vendor/realme/nashc/proprietary/vendor/lib64/s5k4h7_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib64/s5k4h7_mipi_raw_tuning.so \
     vendor/realme/nashc/proprietary/vendor/lib64/s5khm2sp_mipi_raw_IdxMgr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/s5khm2sp_mipi_raw_IdxMgr.so \
     vendor/realme/nashc/proprietary/vendor/lib64/s5khm2sp_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib64/s5khm2sp_mipi_raw_tuning.so \
-    vendor/realme/nashc/proprietary/vendor/lib64/soundfx/libaudiopreprocessing_mtk.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libaudiopreprocessing_mtk.so \
     vendor/realme/nashc/proprietary/vendor/lib64/vendor.mediatek.hardware.apmonitor@2.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.mediatek.hardware.apmonitor@2.0.so \
     vendor/realme/nashc/proprietary/vendor/lib64/vendor.mediatek.hardware.apuware.utils@2.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.mediatek.hardware.apuware.utils@2.0.so \
     vendor/realme/nashc/proprietary/vendor/lib64/vendor.mediatek.hardware.apuware.xrp@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.mediatek.hardware.apuware.xrp@1.0.so \
