@@ -13,6 +13,8 @@ PRODUCT_COPY_FILES += \
     vendor/realme/nashc/proprietary/lib/libmtkperf_client.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libmtkperf_client.so \
     vendor/realme/nashc/proprietary/lib/libvcodec_cap.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libvcodec_cap.so \
     vendor/realme/nashc/proprietary/lib/libvsim-adaptor-client.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libvsim-adaptor-client.so \
+    vendor/realme/nashc/proprietary/lib/liburee_meta_drmkeyinstall.so:$(TARGET_COPY_OUT_SYSTEM)/lib/liburee_meta_drmkeyinstall.so \
+    vendor/realme/nashc/proprietary/lib64/liburee_meta_drmkeyinstall.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/liburee_meta_drmkeyinstall.so \
     vendor/realme/nashc/proprietary/lib64/libcomutils.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libcomutils.so \
     vendor/realme/nashc/proprietary/lib64/libimsma.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libimsma.so \
     vendor/realme/nashc/proprietary/lib64/libimsma_adapt.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libimsma_adapt.so \
