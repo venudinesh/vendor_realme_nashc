@@ -2214,7 +2214,6 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     ImsService \
-    HotwordEnrollmentOKGoogleCORTEXM4 \
     mediatek-common \
     mediatek-framework \
     mediatek-gwsd \
@@ -2229,7 +2228,6 @@ PRODUCT_PACKAGES += \
     mediatek-wfo-legacy \
     oplus-framework-telephony \
     oplus-framework \
-    com.android.hotwordenrollment.common.util \
     android.hardware.neuralnetworks@1.3-service-mtk-dsp-gpu \
     lbs_hidl_service@1.0 \
     manifest_android.hardware.drm@1.4-service.widevine \
